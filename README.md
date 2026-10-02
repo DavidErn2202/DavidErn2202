@@ -72,6 +72,3 @@ ITCA-FEPADE · 2021 – actualidad
 
 ---
 
-## Contacto
-
-**GitHub:** [@DavidErn2202](https://github.com/DavidErn2202)
