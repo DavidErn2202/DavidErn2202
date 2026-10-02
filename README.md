@@ -29,6 +29,10 @@ Estudiante de Ingeniería en Desarrollo de Software con enfoque en desarrollo we
 
 ### Sistema de renta de vehículos
 
+[**Ver repositorio en GitHub**](https://github.com/anderSCGuzman30/renta-vehiculos) · Proyecto colaborativo
+
+> Repositorio privado: el código está disponible para usuarios con acceso autorizado.
+
 Aplicación web académica para la gestión de renta de vehículos.
 
 **Tecnologías:** Laravel 12, Tailwind CSS, Alpine.js y MySQL.
@@ -53,6 +57,26 @@ Aplicación móvil académica para el seguimiento de actividad física, nutrici�
 - Seguimiento de datos en tiempo real.
 - Funcionalidades sociales y recordatorios.
 
+<details>
+<summary><strong>Más repositorios — espacio para próximos proyectos</strong></summary>
+
+| Proyecto | Descripción | Repositorio |
+| --- | --- | --- |
+| Próximo proyecto 1 | Por agregar | Pendiente |
+| Próximo proyecto 2 | Por agregar | Pendiente |
+| Próximo proyecto 3 | Por agregar | Pendiente |
+
+<!--
+Para añadir un repositorio, reemplaza una fila por:
+| Nombre del proyecto | Breve descripción y tecnologías | [Ver código](URL_DEL_REPOSITORIO) |
+
+Si encuentras el repositorio de Salud y Bienestar, agrega el enlace en su sección.
+-->
+
+</details>
+
+---
+
 ## Habilidades
 
 - Desarrollo de interfaces responsivas con enfoque Mobile First.
@@ -67,7 +91,34 @@ Aplicación móvil académica para el seguimiento de actividad física, nutrici�
 **Ingeniería en Desarrollo de Software**  
 ITCA-FEPADE · 2021 – actualidad
 
+## Certificaciones
+
+<details>
+<summary><strong>Cursos y certificados — por agregar</strong></summary>
+
+Espacio para compartir mis cursos y certificaciones.
+
+| Curso o certificación | Plataforma | Fecha | Certificado |
+| --- | --- | --- | --- |
+| Por agregar | — | — | Pendiente |
+
+<!--
+Plantilla para añadir un certificado siguiendo el estilo del perfil de referencia:
+
+### Nombre del curso
+- Plataforma: nombre de la plataforma
+- Duración: cantidad de horas
+- Fecha de finalización: fecha
+
+![Certificado del curso](nombre-del-certificado.jpg)
+
+Sube únicamente tus propios certificados al repositorio antes de activar la imagen.
+-->
+
+</details>
+
+---
+
 ## Contacto
 
 **GitHub:** [@DavidErn2202](https://github.com/DavidErn2202)
-**Correo:** davidern2202@gmail.com
