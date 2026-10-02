@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hola, soy David Flores 👋
 
 ### Desarrollador de software · Desarrollo web
 
@@ -12,12 +11,9 @@ Estudiante de Ingeniería en Desarrollo de Software en ITCA-FEPADE, El Salvador.
 
 ---
 
-## Sobre mí
+##
 
-Me enfoco en crear aplicaciones web con interfaces claras, responsivas y fáciles de usar. He desarrollado proyectos académicos con Laravel, JavaScript y Tailwind CSS, integrando autenticación, control de acceso por roles y bases de datos.
-
-Me interesa el desarrollo web con PHP, Laravel, Node.js, Express.js y Vue.js. Disfruto resolver problemas, organizar el código y colaborar mediante Git y GitHub.
-
+Estudiante de Ingeniería en Desarrollo de Software con enfoque en desarrollo web frontend. Experiencia desarrollando aplicaciones web completas en entornos académicos, utilizando tecnologías como Laravel, JavaScript y Tailwind CSS. He trabajado en proyectos colaborativos aplicando control de versiones con Git, implementación de autenticación, manejo de roles y construcción de interfaces responsivas.
 ## Tecnologías
 
 | Área | Tecnologías |
@@ -31,7 +27,7 @@ Me interesa el desarrollo web con PHP, Laravel, Node.js, Express.js y Vue.js. Di
 
 ## Proyectos destacados
 
-### 🚗 Sistema de renta de vehículos
+### Sistema de renta de vehículos
 
 Aplicación web académica para la gestión de renta de vehículos.
 
@@ -44,7 +40,7 @@ Aplicación web académica para la gestión de renta de vehículos.
 - Desarrollo de los módulos de vehículos, categorías, usuarios y perfiles.
 - Construcción de un dashboard con métricas.
 
-### 📱 Salud y Bienestar
+### Salud y Bienestar
 
 Aplicación móvil académica para el seguimiento de actividad física, nutrición y hábitos.
 
@@ -73,6 +69,5 @@ ITCA-FEPADE · 2021 – actualidad
 
 ## Contacto
 
-¿Quieres conversar sobre un proyecto u oportunidad de desarrollo?
-
 **GitHub:** [@DavidErn2202](https://github.com/DavidErn2202)
+**Correo:** [davidern2202@gmail.com]
