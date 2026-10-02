@@ -5,7 +5,7 @@
 
 Estudiante de Ingeniería en Desarrollo de Software en ITCA-FEPADE, El Salvador.
 
-[GitHub · @DavidErn2202](https://github.com/DavidErn2202)
+[GitHub · @DavidErn2202](https://github.com/DavidErn2202) | [Correo ·](davidern2202@gmail.com)
 
 </div>
 
