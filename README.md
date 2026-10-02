@@ -57,65 +57,18 @@ Aplicación móvil académica para el seguimiento de actividad física, nutrici�
 - Seguimiento de datos en tiempo real.
 - Funcionalidades sociales y recordatorios.
 
-<details>
-<summary><strong>Más repositorios — espacio para próximos proyectos</strong></summary>
-
-| Proyecto | Descripción | Repositorio |
-| --- | --- | --- |
-| Próximo proyecto 1 | Por agregar | Pendiente |
-| Próximo proyecto 2 | Por agregar | Pendiente |
-| Próximo proyecto 3 | Por agregar | Pendiente |
-
-<!--
-Para añadir un repositorio, reemplaza una fila por:
-| Nombre del proyecto | Breve descripción y tecnologías | [Ver código](URL_DEL_REPOSITORIO) |
-
-Si encuentras el repositorio de Salud y Bienestar, agrega el enlace en su sección.
--->
-
-</details>
-
 ---
 
 ## Habilidades
 
-- Desarrollo de interfaces responsivas con enfoque Mobile First.
-- Manipulación del DOM y lógica con JavaScript.
-- Integración entre frontend y backend.
-- Autenticación y control de acceso por roles.
-- Trabajo colaborativo con Git y GitHub.
-- Resolución de problemas y organización del código.
+- Interfaces responsivas y lógica con JavaScript.
+- Integración frontend-backend, autenticación y control de roles.
+- Trabajo colaborativo con Git/GitHub y resolución de problemas.
 
 ## Formación
 
 **Ingeniería en Desarrollo de Software**  
 ITCA-FEPADE · 2021 – actualidad
-
-## Certificaciones
-
-<details>
-<summary><strong>Cursos y certificados — por agregar</strong></summary>
-
-Espacio para compartir mis cursos y certificaciones.
-
-| Curso o certificación | Plataforma | Fecha | Certificado |
-| --- | --- | --- | --- |
-| Por agregar | — | — | Pendiente |
-
-<!--
-Plantilla para añadir un certificado siguiendo el estilo del perfil de referencia:
-
-### Nombre del curso
-- Plataforma: nombre de la plataforma
-- Duración: cantidad de horas
-- Fecha de finalización: fecha
-
-![Certificado del curso](nombre-del-certificado.jpg)
-
-Sube únicamente tus propios certificados al repositorio antes de activar la imagen.
--->
-
-</details>
 
 ---
 
